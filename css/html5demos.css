@@ -75,7 +75,7 @@ abbr {
 }
 
 abbr[title] {
-  border-bottom: 1px dotted #ccc;
+  border-bottom: 2px dotted #ccc;
 }
 
 li {
